@@ -1,0 +1,38 @@
+﻿GROUPDNA | FINAL ANALYTICS REPORT
+================================
+Analyst      : B HARSHITHA
+
+Group        : Hostel Bois 4ever
+
+Period       : 01 April 2024 to 30 May 2024
+
+Messages     : 3,174
+
+Participants : 6
+ 
+Most active  : Rahul (953 messages) 
+
+Busiest day  : 04 May 2024 (76 messages)
+
+Peak hour    : 18:00 - 19:00
+
+Fastest reply: Rahul (34.9 minutes)
+
+Longest ghost: Vikas (11 days)
+
+
+ARCHETYPE SNAPSHOT
+Rahul      → THE SPAMMER
+Priya      → THE GROUP MOM
+Aman       → THE NIGHT OWL
+Karan      → THE STORYTELLER
+Neha       → THE DRAMA QUEEN
+Vikas      → THE GHOST
+
+DATA QUALITY
+
+System messages skipped : 4
+
+Media entries tracked   : 32
+
+Deleted entries tracked : 15
